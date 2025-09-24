@@ -1,2 +1,2 @@
-alert ('Error')
-console.log("This console")
+alert ('Error');
+console.log("This console");
